@@ -1,0 +1,10 @@
+# Python
+__pycache__
+aiEngine/unibot-venv
+aiEngine/db_unibot
+aiEngine/.env
+aiEngine/uploads
+
+# IDEs
+.idea
+.vscode

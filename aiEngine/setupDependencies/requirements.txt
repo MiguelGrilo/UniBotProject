@@ -1,0 +1,21 @@
+# Web Framework & Environment
+fastapi
+uvicorn
+python-dotenv
+python-multipart==0.0.7 # Needed for UploadFile, it has a conflict history with FastAPI
+
+# AI & LLM (Groq + HF)
+langchain-core
+langchain_community
+langchain-groq
+langchain-huggingface==1.2.0
+langchain-text-splitters
+sentence-transformers
+
+# PDF and Vectors (Local)
+chromadb
+pypdf
+#unstructured[docx,pptx,markdown]
+
+# Frontend
+streamlit
